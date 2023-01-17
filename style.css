@@ -1,0 +1,31 @@
+.main{
+    border: 2px solid black;
+    width: 300px;
+    margin: 0 auto;
+    padding: 5px;
+
+}
+.input{
+    background-color: aliceblue;
+    border: 1px solid black;
+    width: 290px;
+    height: 30px;
+    font-size: 23px;
+    padding: 5px;
+}
+
+.clearBtn{
+    margin: 10px 5px;
+    width: 280px;
+    height: 40px;
+    font-size: 20px;
+
+}
+
+.btn{
+    width: 20%;
+    height: 35px;
+    margin: 10px 5px;
+    font-size: 20px;
+
+}
